@@ -1,0 +1,1 @@
+2019-11-20 22:40:57 127.0.0.1:ERROR /goods/product/delete ==> ["42000",1064,"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM \"product\" LIMIT 1' at line 1"] 
